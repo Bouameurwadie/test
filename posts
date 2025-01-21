@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "أحدث تقنيات البرمجة",
+    "content": "تفاصيل المقال...",
+    "image_url": "https://example.com/image.jpg",
+    "category": "برمجة",
+    "author": "محمد علي",
+    "date": "2025-01-20"
+  },
+  {
+    "id": 2,
+    "title": "تصميم واجهات مبتكرة",
+    "content": "تفاصيل المقال...",
+    "image_url": "https://example.com/image2.jpg",
+    "category": "تصميم",
+    "author": "سعاد أحمد",
+    "date": "2025-01-18"
+  }
+]
