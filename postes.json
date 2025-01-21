@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "أحدث تقنيات البرمجة",
+      "content": "تفاصيل المقال...",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR449DYbyFSv55EuEm9LsFl3ttho5mN45Mv13611C1W4XVCHEjDgOMvOUk54LN46bOH23fv2eTBVlRZGUE9t8TMXvjyabH7FstKWYZ0lpjRE4CMsVQXuBtY5Ubzcd2U3CDKBkWuNrwQYNRhdlBTE5O2Y6skatv31PyNboBdhFNG3nagc8LuF263VKU_w/s16000/vecteezy_Cyber-Security-Illustration_ma1020.jpg",
+      "category": "برمجة",
+      "author": "محمد علي",
+      "date": "2025-01-20"
+    },
+    {
+      "id": 2,
+      "title": "تصميم واجهات مبتكرة",
+      "content": "تفاصيل المقال...",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR449DYbyFSv55EuEm9LsFl3ttho5mN45Mv13611C1W4XVCHEjDgOMvOUk54LN46bOH23fv2eTBVlRZGUE9t8TMXvjyabH7FstKWYZ0lpjRE4CMsVQXuBtY5Ubzcd2U3CDKBkWuNrwQYNRhdlBTE5O2Y6skatv31PyNboBdhFNG3nagc8LuF263VKU_w/s16000/vecteezy_Cyber-Security-Illustration_ma1020.jpg",
+      "category": "تصميم",
+      "author": "سعاد أحمد",
+      "date": "2025-01-18"
+    }
+  ]
