@@ -1,18 +1,18 @@
 [
     {
       "id": 1,
-      "title": "أحدث تقنيات البرمجة",
-      "content": "تفاصيل المقال...",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR449DYbyFSv55EuEm9LsFl3ttho5mN45Mv13611C1W4XVCHEjDgOMvOUk54LN46bOH23fv2eTBVlRZGUE9t8TMXvjyabH7FstKWYZ0lpjRE4CMsVQXuBtY5Ubzcd2U3CDKBkWuNrwQYNRhdlBTE5O2Y6skatv31PyNboBdhFNG3nagc8LuF263VKU_w/s16000/vecteezy_Cyber-Security-Illustration_ma1020.jpg",
+      "title": "بروتوكول OpenFlow",
+      "content": "بروتوكول OpenFlow هو واحد من البروتوكولات الرئيسية في مجال الشبكات المعرفة بالبرمجيات (SDN). كيمكن البروتوكول هدا من التواصل بين مستوى التحكم (Control Plane) والأجهزة المادية (Data Plane) بحال السويتشات والراوترات. هاد الشي كيسمح بتحكم أكبر في تدفق البيانات على الشبكة، مما يؤدي لتحسين الأداء والمرونة.",
+      "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*x3EvQmoovA_Ds0ScBXgt1w.jpeg",
       "category": "برمجة",
       "author": "محمد علي",
       "date": "2025-01-20"
     },
     {
       "id": 2,
-      "title": "تصميم واجهات مبتكرة",
+      "title": "أنظمة الملفات | File Systems",
       "content": "تفاصيل المقال...",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR449DYbyFSv55EuEm9LsFl3ttho5mN45Mv13611C1W4XVCHEjDgOMvOUk54LN46bOH23fv2eTBVlRZGUE9t8TMXvjyabH7FstKWYZ0lpjRE4CMsVQXuBtY5Ubzcd2U3CDKBkWuNrwQYNRhdlBTE5O2Y6skatv31PyNboBdhFNG3nagc8LuF263VKU_w/s16000/vecteezy_Cyber-Security-Illustration_ma1020.jpg",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLCP51BHDX_2xuv958aBUsPTOGCMVhkqYP6w9xk_9Vo2ymRIWYVlcqJUJ3c-KkIWRkVRE-6ccZFSsqP-mKLT2NcXY3gfEGWLKF9hBvcuyRXD9b_oXkyp-z07Kkix89Y06Lr4ZgJB0rA5vNxG8mD_mbxhtJETNETwWyKhK_Zmr1LQkgruMYuE-FjQhf2QJx/s2242/File%20Systems.png",
       "category": "تصميم",
       "author": "سعاد أحمد",
       "date": "2025-01-18"
